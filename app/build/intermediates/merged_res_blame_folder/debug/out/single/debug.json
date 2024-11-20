@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/layout_item_list.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/item_list.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_add.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_shadow.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/shadow.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_view_line.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/view_line.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/layout_bottom_sheet_dialog.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_book.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/layout_item_list_lined.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/item_list_lined.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_teacher.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_teacher.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_room.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_room.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_arrow.png.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_arrow.png"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_color.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_color.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable_ic_settings.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.citroncode.stundenplan.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/menu_menu_main.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-merged_res-29:/layout_activity_settings.xml.flat",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/activity_settings.xml"
+    }
+]

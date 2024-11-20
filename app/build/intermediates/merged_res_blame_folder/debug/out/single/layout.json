@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.citroncode.stundenplan.app-mergeDebugResources-28:/layout/bottom_sheet_dialog.xml",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-mergeDebugResources-28:/layout/item_list_lined.xml",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/item_list_lined.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-mergeDebugResources-28:/layout/activity_settings.xml",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-mergeDebugResources-28:/layout/item_list.xml",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/item_list.xml"
+    },
+    {
+        "merged": "com.citroncode.stundenplan.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.citroncode.stundenplan.app-main-31:/layout/activity_main.xml"
+    }
+]
